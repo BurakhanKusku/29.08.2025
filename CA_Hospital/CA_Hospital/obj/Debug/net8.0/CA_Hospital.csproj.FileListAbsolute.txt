@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Hospital\CA_Hospital\bin\Debug\net8.0\CA_Hospital.exe
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Hospital\CA_Hospital\bin\Debug\net8.0\CA_Hospital.deps.json
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Hospital\CA_Hospital\bin\Debug\net8.0\CA_Hospital.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Hospital\CA_Hospital\bin\Debug\net8.0\CA_Hospital.dll
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Hospital\CA_Hospital\bin\Debug\net8.0\CA_Hospital.pdb
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Hospital\CA_Hospital\obj\Debug\net8.0\CA_Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Hospital\CA_Hospital\obj\Debug\net8.0\CA_Hospital.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Hospital\CA_Hospital\obj\Debug\net8.0\CA_Hospital.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Hospital\CA_Hospital\obj\Debug\net8.0\CA_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Hospital\CA_Hospital\obj\Debug\net8.0\CA_Hospital.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Hospital\CA_Hospital\obj\Debug\net8.0\CA_Hospital.dll
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Hospital\CA_Hospital\obj\Debug\net8.0\refint\CA_Hospital.dll
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Hospital\CA_Hospital\obj\Debug\net8.0\CA_Hospital.pdb
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Hospital\CA_Hospital\obj\Debug\net8.0\CA_Hospital.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Hospital\CA_Hospital\obj\Debug\net8.0\ref\CA_Hospital.dll

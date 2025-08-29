@@ -1,7 +1,7 @@
 ﻿using CA_Shoes;
 
-Shoes shoes = new Shoes(); //instance
-int i = 1;
+ //instance
+int i = 2;
 Shoes[] shoes1 = new Shoes[i];
 
 while (i > 0)
@@ -22,11 +22,14 @@ while (i > 0)
 foreach (Shoes ayakkabi in shoes1)
 {
     Console.WriteLine($"\nMarka: {ayakkabi.marka}\nModel: {ayakkabi.model}\nRenk: {ayakkabi.renk}\nTür: {ayakkabi.tur}\nCinsiyet: {ayakkabi.cinsiyet} \nNumara: {ayakkabi.numara}\nFiyat: {ayakkabi.fiyat}");
+
+   
 }
 
 
 void Shoess()
 {
+    Shoes shoes = new Shoes();
     Console.Write("Marka: ");
     shoes.marka = Console.ReadLine();
     Console.Write("Model: ");
