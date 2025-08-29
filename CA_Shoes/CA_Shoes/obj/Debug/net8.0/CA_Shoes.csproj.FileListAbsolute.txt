@@ -1,0 +1,14 @@
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Shoes\CA_Shoes\bin\Debug\net8.0\CA_Shoes.exe
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Shoes\CA_Shoes\bin\Debug\net8.0\CA_Shoes.deps.json
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Shoes\CA_Shoes\bin\Debug\net8.0\CA_Shoes.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Shoes\CA_Shoes\bin\Debug\net8.0\CA_Shoes.dll
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Shoes\CA_Shoes\bin\Debug\net8.0\CA_Shoes.pdb
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Shoes\CA_Shoes\obj\Debug\net8.0\CA_Shoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Shoes\CA_Shoes\obj\Debug\net8.0\CA_Shoes.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Shoes\CA_Shoes\obj\Debug\net8.0\CA_Shoes.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Shoes\CA_Shoes\obj\Debug\net8.0\CA_Shoes.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Shoes\CA_Shoes\obj\Debug\net8.0\CA_Shoes.dll
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Shoes\CA_Shoes\obj\Debug\net8.0\refint\CA_Shoes.dll
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Shoes\CA_Shoes\obj\Debug\net8.0\CA_Shoes.pdb
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Shoes\CA_Shoes\obj\Debug\net8.0\CA_Shoes.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\first_projects\29.08.2025\CA_Shoes\CA_Shoes\obj\Debug\net8.0\ref\CA_Shoes.dll
